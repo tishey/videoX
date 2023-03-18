@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516147678689",
+    "project_id": "videox-5aca1",
+    "storage_bucket": "videox-5aca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516147678689:android:776c6b92450a6b9c2016a0",
+        "android_client_info": {
+          "package_name": "com.example.video_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516147678689-v1f7ms2atstv935ljain2s6k83dcvuor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5UiBJ1PesYEovbyoS0vffEErbj_YHKII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516147678689-v1f7ms2atstv935ljain2s6k83dcvuor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
